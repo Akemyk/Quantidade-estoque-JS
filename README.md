@@ -5,4 +5,4 @@ quantidade mínima em estoque de um produto. Calcular e escrever a quantidade m�
 média = quantidade máxima + quantidade mínima)/2). Se a quantidade em estoque for maior ou igual
 a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar
 compra'.. </p>
-<p>Clique aqui para testar -> https://akemyk.github.io/Macas-compradas-JS/ </p>
+<p>Clique aqui para testar -> https://akemyk.github.io/Quantidade-estoque-JS/ </p>
